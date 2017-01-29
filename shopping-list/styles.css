@@ -1,0 +1,10 @@
+
+.entry:hover {
+  color: gray;
+  cursor: default;
+}
+
+.category:hover {
+  color: gray;
+  cursor: default;
+}
