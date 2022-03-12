@@ -37,8 +37,7 @@ This is not superseded, because my thesis only summarizes it, but does not reall
 
 ### Staged compilation with two-level type theory
 
-You can find a preprint and a demo implementation
-[here](https://github.com/AndrasKovacs/staged).
+[Preprint.](pdfs/2ltt.pdf) [Implementation](https://github.com/AndrasKovacs/staged).
 
 ### High-performance elaboration with dependent types
 
