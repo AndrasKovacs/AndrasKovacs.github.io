@@ -7,7 +7,7 @@ author_profile: true
 
 ## Drafts
 
-- [Staged Compilation With Two-Level Type Theory](https://github.com/AndrasKovacs/staged/blob/main/paper/paper.pdf).
+- [Staged Compilation With Two-Level Type Theory](pdfs/2ltt.pdf).
 
 ## Conference and journal papers
 
@@ -19,3 +19,7 @@ author_profile: true
 - [Shallow Embedding of Type Theory is Morally Correct](https://arxiv.org/pdf/1907.07562.pdf), MPC 2019, with Ambrus Kaposi and Nicolai Kraus.
 - [Constructing quotient inductive-inductive types](https://dl.acm.org/doi/abs/10.1145/3290315), POPL 2019, with Ambrus Kaposi and Thorsten Altenkirch.
 - [A syntax for higher inductive-inductive types](https://drops.dagstuhl.de/opus/volltexte/2018/9190/), FSCD 2018, with Ambrus Kaposi. Received award for best paper by junior researchers.
+
+## MSc thesis
+
+[A Machine-Checked Correctness Proof Of Normalization by Evaluation for Simply Typed Lambda Calculus](pdfs/mscthesis.pdf), 2017, [formalization](https://github.com/AndrasKovacs/stlc-nbe).
