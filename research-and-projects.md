@@ -10,30 +10,14 @@ versions for them. I don't list all [publications](/publications) here.
 
 ### Metatheory of quotient inductive-inductive and higher inductive-inductive types
 
-This is the topic of my PhD thesis "Type-Theoretic Signatures for Algebraic
-Theories and Inductive Types", which is however not yet public, as I haven't yet
-finished revisions for the final version. If you're interested, you can ask me
-for a copy in the meantime. The main previous publications are:
-
-- [Constructing Quotient Inductive-Inductive
-  Types](https://dl.acm.org/doi/10.1145/3290315), with Ambrus Kaposi and
-  Thorsten Altenkirch
-- [Signatures and Induction Principles for Higher Inductive-Inductive Types](https://lmcs.episciences.org/6100/pdf),
-  with Ambrus Kaposi. This is an extended and revised version of the previous
-  paper "A Syntax for Higher Inductive-Inductive Types". There's no reason to
-  read the older version.
-- [Large and Infinitary Quotient Inductive-Inductive
-  Types](https://dl.acm.org/doi/abs/10.1145/3373718.3394770), with Ambrus
-  Kaposi.
-
-My thesis, when it comes out, will supersede the above publications, and there
-won't be any point reading them. There's also a publication on constructing
-finitary inductive-inductive types.
+This is the topic of my PhD thesis, titled [Type-Theoretic Signatures for Algebraic
+Theories and Inductive Types](https://github.com/AndrasKovacs/thesis/blob/main/src/thesis.pdf). This
+is the most up-to-date version of this research. My older papers in the same topic are mostly superseded.
+There is one paper which is not superseded, because the thesis only summarizes it, but does not really improve
+or revise it:
 
 - [For Finitary Induction-Induction, Induction is Enough](https://drops.dagstuhl.de/opus/volltexte/2020/13070/), with
   Ambroise Lafont and Ambrus Kaposi
-
-This is not superseded, because my thesis only summarizes it, but does not really improve on it or revise it.
 
 ### Staged compilation with two-level type theory
 
