@@ -10,11 +10,11 @@ versions for them. I don't list all [publications](/publications) here.
 
 ### Metatheory of quotient inductive-inductive and higher inductive-inductive types
 
-This is the topic of my PhD thesis, titled [Type-Theoretic Signatures for Algebraic
-Theories and Inductive Types](https://github.com/AndrasKovacs/thesis/blob/main/src/thesis.pdf). This
-is the most up-to-date version of this research. My older papers in the same topic are mostly superseded.
-There is one paper which is not superseded, because the thesis only summarizes it, but does not really improve
-or revise it:
+This is the topic of my PhD thesis, titled [Type-Theoretic Signatures for
+Algebraic Theories and Inductive Types](pdfs/phdthesis.pdf). This is the most
+up-to-date version of this research. My older papers in the same topic are
+mostly superseded. There is one paper which is not superseded, because the
+thesis only summarizes it, but does not really improve or revise it:
 
 - [For Finitary Induction-Induction, Induction is Enough](https://drops.dagstuhl.de/opus/volltexte/2020/13070/), with
   Ambroise Lafont and Ambrus Kaposi
