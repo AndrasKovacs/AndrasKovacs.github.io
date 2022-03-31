@@ -20,6 +20,11 @@ author_profile: true
 - [Constructing quotient inductive-inductive types](https://dl.acm.org/doi/abs/10.1145/3290315), POPL 2019, with Ambrus Kaposi and Thorsten Altenkirch.
 - [A syntax for higher inductive-inductive types](https://drops.dagstuhl.de/opus/volltexte/2018/9190/), FSCD 2018, with Ambrus Kaposi. Received award for best paper by junior researchers.
 
+## PhD thesis
+
+[Type-Theoretic Signatures for
+Algebraic Theories and Inductive Types](pdfs/phdthesis_compact.pdf).
+
 ## MSc thesis
 
 [A Machine-Checked Correctness Proof Of Normalization by Evaluation for Simply Typed Lambda Calculus](pdfs/mscthesis.pdf), 2017, [formalization](https://github.com/AndrasKovacs/stlc-nbe).
