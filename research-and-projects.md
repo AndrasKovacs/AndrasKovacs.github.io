@@ -67,3 +67,9 @@ I have also developed an extension to Miller's pattern unification algorithm. I
 haven't yet made any formal publication about this; see this [Stack Exchange
 answer](https://cstheory.stackexchange.com/questions/50914/swapping-arguments-of-variables-in-higher-order-pattern-unification/50918#50918)
 for some explanation and links to more material.
+
+### Universe features
+
+This is a small but fun piece which shows that fancy predicative universe features (polymorphism, first-class levels, transfinite levels, level bounds) can be modeled with induction-recursion:
+
+- [Generalized Universe Hierarchies and First-Class Universe Levels](https://drops.dagstuhl.de/opus/volltexte/2022/15748/pdf/LIPIcs-CSL-2022-28.pdf)
