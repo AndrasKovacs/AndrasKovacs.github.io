@@ -7,7 +7,7 @@ author_profile: true
 
 ## Drafts
 
-- [Staged Compilation With Two-Level Type Theory](pdfs/2ltt.pdf).
+- [Staged Compilation With Two-Level Type Theory](pdfs/2ltt.pdf). [Appendix](pdfs/2ltt_appendix.pdf).
 
 ## Conference and journal papers
 
