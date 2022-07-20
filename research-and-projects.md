@@ -21,7 +21,7 @@ thesis only summarizes it, but does not really improve or revise it:
 
 ### Staged compilation with two-level type theory
 
-[Preprint](pdfs/2ltt.pdf). [Appendix](pdfs/2ltt_appendix.pdf). [Implementation](https://github.com/AndrasKovacs/staged).
+[Paper](pdfs/2ltt.pdf). [Appendix](pdfs/2ltt_appendix.pdf). [Implementation](https://github.com/AndrasKovacs/staged).
 
 ### High-performance elaboration with dependent types
 

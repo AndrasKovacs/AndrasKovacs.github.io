@@ -5,12 +5,10 @@ permalink: /publications
 author_profile: true
 ---
 
-## Drafts
-
-- [Staged Compilation With Two-Level Type Theory](pdfs/2ltt.pdf). [Appendix](pdfs/2ltt_appendix.pdf).
-
 ## Conference and journal papers
 
+- [Staged Compilation With Two-Level Type Theory](pdfs/2ltt.pdf), ICFP 2022.
+  [Appendix](pdfs/2ltt_appendix.pdf), [Implementation](https://github.com/AndrasKovacs/staged).
 - [Generalized Universe Hierarchies and First-Class Universe Levels](https://drops.dagstuhl.de/opus/volltexte/2022/15748/), CSL 2022.
 - [Elaboration With First-Class Implicit Function Types](https://dl.acm.org/doi/abs/10.1145/3408983), ICFP 2020.
 - [Large and Infinitary Quotient Inductive-Inductive Types](https://dl.acm.org/doi/abs/10.1145/3373718.3394770), LICS 2020, with Ambrus Kaposi.
