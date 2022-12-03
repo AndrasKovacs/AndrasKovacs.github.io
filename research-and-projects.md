@@ -19,6 +19,13 @@ thesis only summarizes it, but does not really improve or revise it:
 - [For Finitary Induction-Induction, Induction is Enough](https://drops.dagstuhl.de/opus/volltexte/2020/13070/), with
   Ambroise Lafont and Ambrus Kaposi
 
+### Efficient evaluation for cubical type theories
+
+Existing cubical type theory implementation all suffer from efficiency problems.
+I have a [WIP repository](https://github.com/AndrasKovacs/cubeval) with a
+prototype implementation that has major new optimizations. It's not yet
+benchmark-able but I'm pretty optimistic.
+
 ### Staged compilation & metaprogramming
 
 - Staged compilation with two-level type
