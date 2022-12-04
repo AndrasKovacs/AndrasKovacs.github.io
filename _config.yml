@@ -68,8 +68,7 @@ og_image                 :  # Open Graph/Twitter default site image
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
-
+  links:
 
 # Analytics
 analytics:
@@ -115,6 +114,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  mastodon         : "https://types.pl/@AndrasKovacs"
 
 
 # Reading Files
