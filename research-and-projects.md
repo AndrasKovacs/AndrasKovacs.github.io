@@ -19,6 +19,8 @@ thesis only summarizes it, but does not really improve or revise it:
 - [For Finitary Induction-Induction, Induction is Enough](https://drops.dagstuhl.de/opus/volltexte/2020/13070/), with
   Ambroise Lafont and Ambrus Kaposi
 
+These [slides about my thesis](pdfs/wg6stockholm.pdf) might be also intersting.
+
 ### Efficient evaluation for cubical type theories
 
 Existing cubical type theory implementation all suffer from efficiency problems.
