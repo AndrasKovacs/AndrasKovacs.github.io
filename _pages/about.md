@@ -20,6 +20,7 @@ type theory (metatheory of inductive types, universes).
 
 **News & updates**
 
+- 18/12/22: [a note about higher induction-induction-recursion](https://gist.github.com/AndrasKovacs/16ce01ad516b3f757ff5d88276f1c515).
 - 12/09/22: I defended my [thesis](pdfs/phdthesis_compact.pdf).
 - [New WIP project](https://github.com/AndrasKovacs/cubeval) about cubical evaluation.
 - New repo for [staged fusion](https://github.com/AndrasKovacs/staged-fusion) in Haskell.
