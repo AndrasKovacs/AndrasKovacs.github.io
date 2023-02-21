@@ -20,6 +20,7 @@ type theory (metatheory of inductive types, universes).
 
 **News & updates**
 
+- [A Proof Assistants answer about inductive types in Agda](https://proofassistants.stackexchange.com/a/2002/72).
 - 12/09/22: I defended my [thesis](pdfs/phdthesis_compact.pdf).
 - [New WIP project](https://github.com/AndrasKovacs/cubeval) about cubical evaluation.
 - New repo for [staged fusion](https://github.com/AndrasKovacs/staged-fusion) in Haskell.
