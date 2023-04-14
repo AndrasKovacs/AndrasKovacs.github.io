@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm an assistant lecturer and PhD candidate at the [Faculty of Informatics of
+I'm an assistant lecturer at the [Faculty of Informatics of
 Eötvös Loránd University of Budapest](https://www.inf.elte.hu/en/), at the
 department of Programming Languages and Compilers. I did my PhD studies at the
 same place from 2017 to 2021 under the supervision of [Ambrus
