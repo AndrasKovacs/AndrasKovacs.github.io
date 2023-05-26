@@ -25,8 +25,9 @@ These [slides about my thesis](pdfs/wg6stockholm.pdf) might be also intersting.
 
 Existing cubical type theory implementation all suffer from efficiency problems.
 I have a [WIP repository](https://github.com/AndrasKovacs/cubeval) with a
-prototype implementation that has major new optimizations. It's not yet
-benchmark-able but I'm pretty optimistic.
+prototype implementation that has major new optimizations. Benchmarks look
+pretty good so far.
+
 
 ### Staged compilation & metaprogramming
 
