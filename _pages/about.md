@@ -18,8 +18,9 @@ My research topics are generally related to type theory, and they range from
 "applied" type theory (compilation, elaboration, performance) to more "pure"
 type theory (metatheory of inductive types, universes).
 
-**News & updates**
+**Updates & stuff**
 
+- 9/08/23: [a post about garbage collection which has zero cost outside of GC](https://gist.github.com/AndrasKovacs/fc9e20b0976b7e236b5899fde8f5c95d).
 - 24/05/23: [slides for my HoTT 2023 talk about efficient cubical evaluation](pdfs/hott23prez.pdf)
 - 20/02/23: [a Proof Assistants answer about inductive types in Agda](https://proofassistants.stackexchange.com/a/2002/72).
 - 18/12/22: [a note about higher induction-induction-recursion](https://gist.github.com/AndrasKovacs/16ce01ad516b3f757ff5d88276f1c515).
