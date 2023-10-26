@@ -22,6 +22,7 @@ to more "pure" type theory (metatheory of inductive types, universes).
 
 **Updates & stuff**
 
+- 25/10/23: [a note about eta conversion for the unit type](https://gist.github.com/AndrasKovacs/f268c0311437f7a8759d5bac57495f8b).
 - 9/08/23: [a post about garbage collection which has zero cost outside of GC](https://gist.github.com/AndrasKovacs/fc9e20b0976b7e236b5899fde8f5c95d).
 - 24/05/23: [slides for my HoTT 2023 talk about efficient cubical evaluation](pdfs/hott23prez.pdf)
 - 20/02/23: [a Proof Assistants answer about inductive types in Agda](https://proofassistants.stackexchange.com/a/2002/72).
