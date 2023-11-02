@@ -22,7 +22,7 @@ to more "pure" type theory (metatheory of inductive types, universes).
 
 **Updates & stuff**
 
-- 2/11/23: [my (belated) slides from my WITS 2023 workshop talk](pdfs/wits23prez.pdf).
+- 2/11/23: [my (belated) slides from my WITS 2023 workshop talk](pdfs/wits23prez.pdf). [Abstract as well](pdfs/wits23abstract.pdf).
 - 25/10/23: [a note about eta conversion for the unit type](https://gist.github.com/AndrasKovacs/f268c0311437f7a8759d5bac57495f8b).
 - 9/08/23: [a post about garbage collection which has zero cost outside of GC](https://gist.github.com/AndrasKovacs/fc9e20b0976b7e236b5899fde8f5c95d).
 - 24/05/23: [slides for my HoTT 2023 talk about efficient cubical evaluation](pdfs/hott23prez.pdf)
