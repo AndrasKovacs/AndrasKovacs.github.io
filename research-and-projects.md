@@ -23,17 +23,15 @@ These [slides about my thesis](pdfs/wg6stockholm.pdf) might be also intersting.
 
 ### Efficient evaluation for cubical type theories
 
-Existing cubical type theory implementation all suffer from efficiency problems.
+Existing cubical type theory implementations all suffer from efficiency problems.
 I have a [WIP repository](https://github.com/AndrasKovacs/cubeval) with a
-prototype implementation that has major new optimizations. Benchmarks look
-pretty good so far.
-
+prototype implementation that has major new optimizations.
 
 ### Staged compilation & metaprogramming
 
-- Staged compilation with two-level type
-  theory. [Paper](pdfs/2ltt.pdf). [Appendix](pdfs/2ltt_appendix.pdf). [Implementation](https://github.com/AndrasKovacs/staged).
-- [Staged push/pull fusion in typed Template Haskell](https://github.com/AndrasKovacs/staged-fusion).
+- ICFP 2024: *Closure-Free Functional Programming in a Two-Level Type Theory*. [Paper](pdfs/2ltt_icfp24.pdf). [Code supplement](pdfs/2ltt_icfp24.pdf).
+- ICFP 2022: *Staged Compilation With Two-Level Type Theory*. [Paper](pdfs/2ltt.pdf). [Appendix](pdfs/2ltt_appendix.pdf). [Implementation](https://github.com/AndrasKovacs/staged).
+- [Staged push/pull fusion in typed Template Haskell](https://github.com/AndrasKovacs/staged-fusion). It's mostly made obsolete by the ICFP 2024 paper.
 
 ### High-performance elaboration with dependent types
 
