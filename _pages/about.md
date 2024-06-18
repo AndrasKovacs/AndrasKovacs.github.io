@@ -22,7 +22,7 @@ to more "pure" type theory (metatheory of inductive types, universes).
 
 **Updates & stuff**
 
-- 18/06/24: [new paper about staged compilation](pdfs/2ltt_icfp24.pdf), to appear at ICFP 2024. [Code supplement](pdfs/2ltt_icfp24.pdf).
+- 18/06/24: [new paper about staged compilation](pdfs/2ltt_icfp24.pdf), to appear at ICFP 2024. [Code supplement](https://github.com/AndrasKovacs/staged/tree/main/icfp24paper/supplement).
 - 22/01/23: my WITS 2024 [slides](pdfs/wits24prez.pdf) and [abstract](pdfs/wits24abstract.pdf).
 - 2/11/23: [my (belated) slides from my WITS 2023 workshop talk](pdfs/wits23prez.pdf). [Abstract as well](pdfs/wits23abstract.pdf).
 - 25/10/23: [a note about eta conversion for the unit type](https://gist.github.com/AndrasKovacs/f268c0311437f7a8759d5bac57495f8b).

@@ -29,7 +29,7 @@ prototype implementation that has major new optimizations.
 
 ### Staged compilation & metaprogramming
 
-- ICFP 2024: *Closure-Free Functional Programming in a Two-Level Type Theory*. [Paper](pdfs/2ltt_icfp24.pdf). [Code supplement](pdfs/2ltt_icfp24.pdf).
+- ICFP 2024: *Closure-Free Functional Programming in a Two-Level Type Theory*. [Paper](pdfs/2ltt_icfp24.pdf). [Code supplement](https://github.com/AndrasKovacs/staged/tree/main/icfp24paper/supplement).
 - ICFP 2022: *Staged Compilation With Two-Level Type Theory*. [Paper](pdfs/2ltt.pdf). [Appendix](pdfs/2ltt_appendix.pdf). [Implementation](https://github.com/AndrasKovacs/staged).
 - [Staged push/pull fusion in typed Template Haskell](https://github.com/AndrasKovacs/staged-fusion). It's mostly made obsolete by the ICFP 2024 paper.
 
