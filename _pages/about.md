@@ -22,7 +22,8 @@ to more "pure" type theory (metatheory of inductive types, universes).
 
 **Updates & stuff**
 
-- 26/06/24: I [formalized](https://github.com/AndrasKovacs/antifunext) a nice & simple refutation of function extensionality that's due to Pierre-Marie Pédrot.
+- 27/08/24: A [note](https://gist.github.com/AndrasKovacs/1758f83cced957afb00b1382a8974c92) on formalizing correctness of elaboration for type theories.
+- 26/06/24: I [formalized in Agda](https://github.com/AndrasKovacs/antifunext) a nice & simple refutation of function extensionality that's due to Pierre-Marie Pédrot.
 - 18/06/24: [new paper about staged compilation](pdfs/2ltt_icfp24.pdf), to appear at ICFP 2024. [Code supplement](https://github.com/AndrasKovacs/staged/tree/main/icfp24paper/supplement).
 - 22/01/23: my WITS 2024 [slides](pdfs/wits24prez.pdf) and [abstract](pdfs/wits24abstract.pdf).
 - 2/11/23: [my (belated) slides from my WITS 2023 workshop talk](pdfs/wits23prez.pdf). [Abstract as well](pdfs/wits23abstract.pdf).
