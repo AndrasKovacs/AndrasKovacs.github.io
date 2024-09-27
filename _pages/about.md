@@ -22,6 +22,7 @@ to more "pure" type theory (metatheory of inductive types, universes).
 
 **Updates & stuff**
 
+- 26/09/24: A [post](https://gist.github.com/AndrasKovacs/fb172cb813d57da9ac22b95db708c4af) about lightweight memory regions in two-stage programming.
 - 27/08/24: A [note](https://gist.github.com/AndrasKovacs/1758f83cced957afb00b1382a8974c92) on formalizing correctness of elaboration for type theories.
 - 26/06/24: I [formalized in Agda](https://github.com/AndrasKovacs/antifunext) a nice & simple refutation of function extensionality that's due to Pierre-Marie Pédrot.
 - 18/06/24: [new paper about staged compilation](pdfs/2ltt_icfp24.pdf), to appear at ICFP 2024. [Code supplement](https://github.com/AndrasKovacs/staged/tree/main/icfp24paper/supplement).
