@@ -10,8 +10,9 @@ redirect_from:
 
 I'm a postdoc at the [Logic and Types
 group](https://www.gu.se/en/about/find-organisation/logic-and-types-lt) at the
-University of Gothenburg. Previously I was an assistant lecturer at the [Faculty
-of Informatics of Eötvös Loránd University of
+University of Gothenburg and Chalmers University (yes,
+[both](https://www.chalmers.se/en/departments/cse/)). Previously I was an
+assistant lecturer at the [Faculty of Informatics of Eötvös Loránd University of
 Budapest](https://www.inf.elte.hu/en/), at the department of Programming
 Languages and Compilers. I did my PhD studies at the same place from 2017 to
 2021 under the supervision of [Ambrus Kaposi](https://akaposi.github.io/).
