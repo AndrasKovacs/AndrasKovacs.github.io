@@ -23,13 +23,14 @@ to more "pure" type theory (metatheory of inductive types, universes).
 
 **Updates & stuff**
 
-- 21/11/24: A [demo project](https://github.com/AndrasKovacs/dtt-rtcg) about combining dependent types and runtime code generation.
-- 26/09/24: A [post](https://gist.github.com/AndrasKovacs/fb172cb813d57da9ac22b95db708c4af) about lightweight memory regions in two-stage programming.
-- 27/08/24: A [note](https://gist.github.com/AndrasKovacs/1758f83cced957afb00b1382a8974c92) on formalizing correctness of elaboration for type theories.
+- 26/01/25: WITS 2025 [slides](pdfs/wits25prez.pdf) about eta conversion for the unit eta.
+- 21/11/24: a [demo project](https://github.com/AndrasKovacs/dtt-rtcg) about combining dependent types and runtime code generation.
+- 26/09/24: a [post](https://gist.github.com/AndrasKovacs/fb172cb813d57da9ac22b95db708c4af) about lightweight memory regions in two-stage programming.
+- 27/08/24: a [note](https://gist.github.com/AndrasKovacs/1758f83cced957afb00b1382a8974c92) on formalizing correctness of elaboration for type theories.
 - 26/06/24: I [formalized in Agda](https://github.com/AndrasKovacs/antifunext) a nice & simple refutation of function extensionality that's due to Pierre-Marie Pédrot.
 - 18/06/24: [new paper about staged compilation](pdfs/2ltt_icfp24.pdf), to appear at ICFP 2024. [Code supplement](https://github.com/AndrasKovacs/staged/tree/main/icfp24paper/supplement).
-- 22/01/23: my WITS 2024 [slides](pdfs/wits24prez.pdf) and [abstract](pdfs/wits24abstract.pdf).
-- 2/11/23: [my (belated) slides from my WITS 2023 workshop talk](pdfs/wits23prez.pdf). [Abstract as well](pdfs/wits23abstract.pdf).
+- 22/01/23: WITS 2024 [slides](pdfs/wits24prez.pdf) and [abstract](pdfs/wits24abstract.pdf) about definition unfolding in elaboration.
+- 2/11/23: [(belated) slides of WITS 2023 workshop talk](pdfs/wits23prez.pdf) about generalizing Miller pattern unification. [Abstract as well](pdfs/wits23abstract.pdf).
 - 25/10/23: [a note about eta conversion for the unit type](https://gist.github.com/AndrasKovacs/f268c0311437f7a8759d5bac57495f8b).
 - 9/08/23: [a post about garbage collection which has zero cost outside of GC](https://gist.github.com/AndrasKovacs/fc9e20b0976b7e236b5899fde8f5c95d).
 - 24/05/23: [slides for my HoTT 2023 talk about efficient cubical evaluation](pdfs/hott23prez.pdf)
