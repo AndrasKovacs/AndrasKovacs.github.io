@@ -23,7 +23,7 @@ to more "pure" type theory (metatheory of inductive types, universes).
 
 **Updates & stuff**
 
-- 26/01/25: WITS 2025 [slides](pdfs/wits25prez.pdf) about eta conversion for the unit eta.
+- 26/01/25: WITS 2025 [slides](pdfs/wits25prez.pdf) and [abstract](pdfs/wits25abstract.pdf) about eta conversion for the unit type.
 - 21/11/24: a [demo project](https://github.com/AndrasKovacs/dtt-rtcg) about combining dependent types and runtime code generation.
 - 26/09/24: a [post](https://gist.github.com/AndrasKovacs/fb172cb813d57da9ac22b95db708c4af) about lightweight memory regions in two-stage programming.
 - 27/08/24: a [note](https://gist.github.com/AndrasKovacs/1758f83cced957afb00b1382a8974c92) on formalizing correctness of elaboration for type theories.
