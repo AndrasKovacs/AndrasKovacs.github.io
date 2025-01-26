@@ -29,6 +29,7 @@ prototype implementation that has major new optimizations.
 
 ### Staged compilation & metaprogramming
 
+- Implementation of [dependently typed runtime code generation](https://github.com/AndrasKovacs/dtt-rtcg).
 - ICFP 2024: *Closure-Free Functional Programming in a Two-Level Type Theory*. [Paper](pdfs/2ltt_icfp24.pdf). [Code supplement](https://github.com/AndrasKovacs/staged/tree/main/icfp24paper/supplement).
 - ICFP 2022: *Staged Compilation With Two-Level Type Theory*. [Paper](pdfs/2ltt.pdf). [Appendix](pdfs/2ltt_appendix.pdf). [Implementation](https://github.com/AndrasKovacs/staged).
 - [Staged push/pull fusion in typed Template Haskell](https://github.com/AndrasKovacs/staged-fusion). It's mostly made obsolete by the ICFP 2024 paper.
@@ -70,13 +71,14 @@ solution:
 My stance now is that the older source is overkill: it could be in principle
 scaled to more advanced inference, but in practice barely anyone would notice
 the difference, and the new approach is much simpler. As far as I'm aware,
-"dynamic order elaboration" is the best practice solution for first-class polymorphism
-in practice.
+"dynamic order elaboration" is the best practice solution for first-class
+polymorphism in practice.
 
 I have also developed an extension to Miller's pattern unification algorithm. I
 haven't yet made any formal publication about this; see this [Stack Exchange
 answer](https://cstheory.stackexchange.com/questions/50914/swapping-arguments-of-variables-in-higher-order-pattern-unification/50918#50918)
-for some explanation and links to more material.
+for some explanation and links to more material. See also these WITS 23
+[slides](pdfs/wits24prez.pdf).
 
 ### Universe features
 
