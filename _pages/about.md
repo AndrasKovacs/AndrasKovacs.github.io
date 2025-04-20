@@ -23,6 +23,7 @@ to more "pure" type theory (metatheory of inductive types, universes).
 
 **Updates & stuff**
 
+- 20/04/25: EuroProofNet working group 6 meeting [slides](pdfs/wg6genoa.pdf) about a generalized logical framework.
 - 26/01/25: WITS 2025 [slides](pdfs/wits25prez.pdf) and [abstract](pdfs/wits25abstract.pdf) about eta conversion for the unit type.
 - 21/11/24: a [demo project](https://github.com/AndrasKovacs/dtt-rtcg) about combining dependent types and runtime code generation.
 - 26/09/24: a [post](https://gist.github.com/AndrasKovacs/fb172cb813d57da9ac22b95db708c4af) about lightweight memory regions in two-stage programming.
