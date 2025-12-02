@@ -7,6 +7,7 @@ author_profile: true
 
 ## Conference and journal papers
 
+- [Canonicity for Indexed Inductive-Recursive Types](pdfs/ir_canonicity.pdf), POPL 2026.
 - [Closure-Free Functional Programming in a Two-Level Type Theory](pdfs/2ltt_icfp24.pdf), ICFP 2024. [Code supplement](https://github.com/AndrasKovacs/staged/tree/main/icfp24paper/supplement).
 - [Staged Compilation With Two-Level Type Theory](pdfs/2ltt.pdf), ICFP 2022.
   [Appendix](pdfs/2ltt_appendix.pdf), [Implementation](https://github.com/AndrasKovacs/staged).
