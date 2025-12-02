@@ -23,6 +23,7 @@ to more "pure" type theory (metatheory of inductive types, universes).
 
 **Updates & stuff**
 
+- 02/12/25: paper about [canonicity for indexed inductive-recursive types](pdfs/ir_canonicity.pdf), to appear at POPL 2026.
 - 20/04/25: EuroProofNet working group 6 meeting [slides](pdfs/wg6genoa.pdf) about a generalized logical framework.
 - 26/01/25: WITS 2025 [slides](pdfs/wits25prez.pdf) and [abstract](pdfs/wits25abstract.pdf) about eta conversion for the unit type.
 - 21/11/24: a [demo project](https://github.com/AndrasKovacs/dtt-rtcg) about combining dependent types and runtime code generation.
