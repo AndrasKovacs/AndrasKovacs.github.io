@@ -8,21 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I'm a postdoc at the [Logic and Types
-group](https://www.gu.se/en/about/find-organisation/logic-and-types-lt) at the
-University of Gothenburg and Chalmers University (yes,
-[both](https://www.chalmers.se/en/departments/cse/)). Previously I was an
-assistant lecturer at the [Faculty of Informatics of Eötvös Loránd University of
-Budapest](https://www.inf.elte.hu/en/), at the department of Programming
-Languages and Compilers. I did my PhD studies at the same place from 2017 to
-2021 under the supervision of [Ambrus Kaposi](https://akaposi.github.io/).
+I'm a postdoc at the University of Cambridge, in [Jon Sterling's research
+group](https://www.jonmsterling.com/0063/). Previously I was a postdoc at the [Logic and
+Types](https://www.gu.se/en/about/find-organisation/logic-and-types-lt-0) unit in the University of
+Gothenburg. I did my PhD studies at the [Eötvös Loránd University of
+Budapest](https://www.inf.elte.hu/en/), supervised by [Ambrus Kaposi](https://akaposi.github.io/).
 
-My research topics are generally related to type theory, and they range from
-"applied" type theory (compilation, elaboration, performance, metaprogramming)
-to more "pure" type theory (metatheory of inductive types, universes).
+My research topics are generally related to type theory, ranging from "applied" type theory
+(compilation, elaboration, performance, metaprogramming) to more "pure" type theory (metatheory of
+inductive types, universes).
 
 **Updates & stuff**
 
+- 01/09/26: started a postdoc at the University of Cambridge in Jon Sterling's research group.
 - 13/02/26: [slides](pdfs/tfp26prez.pdf) from my talk at TFP 2026. It's about two-level TT, with a practical focus, also touching on region allocation.
 - 21/01/26: WITS 2026 [slides](pdfs/wits26prez.pdf) and [abstract](pdfs/wits26abstract.pdf) about using observational equality for postponed unification problems in elaboration.
 - 02/12/25: paper about [canonicity for indexed inductive-recursive types](pdfs/ir_canonicity.pdf), to appear at POPL 2026.
