@@ -8,18 +8,23 @@ author_profile: true
 I summarize below my most notable outputs and the recommended up-to-date
 versions for them. I don't list all [publications](/publications) here.
 
-### Metatheory of quotient inductive-inductive and higher inductive-inductive types
+### Metatheory of inductive types
 
-This is the topic of my PhD thesis, titled [Type-Theoretic Signatures for
-Algebraic Theories and Inductive Types](pdfs/phdthesis_compact.pdf). This is the most
-up-to-date version of this research. My older papers in the same topic are
-mostly superseded. There is one paper which is not superseded, because the
-thesis only summarizes it, but does not really improve or revise it:
+This is the topic of my PhD thesis, titled [Type-Theoretic Signatures for Algebraic Theories and
+Inductive Types](pdfs/phdthesis_compact.pdf). The thesis is the most up-to-date version of my
+research on quotient inductive-inductive types. My older papers in the same topic are mostly
+superseded. There is one paper which is not superseded, because the thesis only summarizes it, but
+does not really improve or revise it:
 
 - [For Finitary Induction-Induction, Induction is Enough](https://drops.dagstuhl.de/opus/volltexte/2020/13070/), with
   Ambroise Lafont and Ambrus Kaposi
 
 These [slides about my thesis](pdfs/wg6stockholm.pdf) might be also intersting.
+
+More recently I wrote a paper about [Canonicity for Indexed Inductive-Recursive
+Types](pdfs/ir_canonicity.pdf). This line of research is a bit different, since the specification of
+IR types is quite simple compared to QIITs, but we try to develop some more interesting syntactic
+metatheory for it.
 
 ### Efficient evaluation for cubical type theories
 
