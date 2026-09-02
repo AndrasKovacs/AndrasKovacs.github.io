@@ -18,9 +18,10 @@ My research topics are generally related to type theory, ranging from "applied" 
 (compilation, elaboration, performance, metaprogramming) to more "pure" type theory (metatheory of
 inductive types, universes).
 
-**Updates & stuff**
+**Updates & new publications**
 
-- 01/09/26: started a postdoc at the University of Cambridge in Jon Sterling's research group.
+- 01/09/26: started as a postdoc at the University of Cambridge in [Jon
+  Sterling's](https://www.jonmsterling.com/index/) group.
 - 13/02/26: [slides](pdfs/tfp26prez.pdf) from my talk at TFP 2026. It's about two-level TT, with a practical focus, also touching on region allocation.
 - 21/01/26: WITS 2026 [slides](pdfs/wits26prez.pdf) and [abstract](pdfs/wits26abstract.pdf) about using observational equality for postponed unification problems in elaboration.
 - 02/12/25: paper about [canonicity for indexed inductive-recursive types](pdfs/ir_canonicity.pdf), to appear at POPL 2026.
