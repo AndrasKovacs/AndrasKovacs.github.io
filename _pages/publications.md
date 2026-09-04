@@ -7,10 +7,10 @@ author_profile: true
 
 ## Conference and journal papers
 
-- [Canonicity for Indexed Inductive-Recursive Types](pdfs/ir_canonicity.pdf), POPL 2026.
-- [Closure-Free Functional Programming in a Two-Level Type Theory](pdfs/2ltt_icfp24.pdf), ICFP 2024. [Code supplement](https://github.com/AndrasKovacs/staged/tree/main/icfp24paper/supplement).
-- [Staged Compilation With Two-Level Type Theory](pdfs/2ltt.pdf), ICFP 2022.
-  [Appendix](pdfs/2ltt_appendix.pdf), [Implementation](https://github.com/AndrasKovacs/staged).
+- [Canonicity for Indexed Inductive-Recursive Types](/pdfs/ir_canonicity.pdf), POPL 2026.
+- [Closure-Free Functional Programming in a Two-Level Type Theory](/pdfs/2ltt_icfp24.pdf), ICFP 2024. [Code supplement](https://github.com/AndrasKovacs/staged/tree/main/icfp24paper/supplement).
+- [Staged Compilation With Two-Level Type Theory](/pdfs/2ltt.pdf), ICFP 2022.
+  [Appendix](/pdfs/2ltt_appendix.pdf), [Implementation](https://github.com/AndrasKovacs/staged).
 - [Generalized Universe Hierarchies and First-Class Universe Levels](https://drops.dagstuhl.de/opus/volltexte/2022/15748/), CSL 2022.
 - [Elaboration With First-Class Implicit Function Types](https://dl.acm.org/doi/abs/10.1145/3408983), ICFP 2020.
 - [Large and Infinitary Quotient Inductive-Inductive Types](https://dl.acm.org/doi/abs/10.1145/3373718.3394770), LICS 2020, with Ambrus Kaposi.
@@ -22,8 +22,8 @@ author_profile: true
 
 ## PhD thesis
 
-[Type-Theoretic Signatures for Algebraic Theories and Inductive Types](pdfs/phdthesis_compact.pdf).
+[Type-Theoretic Signatures for Algebraic Theories and Inductive Types](/pdfs/phdthesis_compact.pdf).
 
 ## MSc thesis
 
-[A Machine-Checked Correctness Proof Of Normalization by Evaluation for Simply Typed Lambda Calculus](pdfs/mscthesis.pdf), 2017, [formalization](https://github.com/AndrasKovacs/stlc-nbe).
+[A Machine-Checked Correctness Proof Of Normalization by Evaluation for Simply Typed Lambda Calculus](/pdfs/mscthesis.pdf), 2017, [formalization](https://github.com/AndrasKovacs/stlc-nbe).

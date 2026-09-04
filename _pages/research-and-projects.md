@@ -11,7 +11,7 @@ list all [publications](/publications) here.
 ## Metatheory of inductive types
 
 This is the topic of my PhD thesis, titled [Type-Theoretic Signatures for Algebraic Theories and
-Inductive Types](pdfs/phdthesis_compact.pdf). The thesis is the most up-to-date version of my
+Inductive Types](/pdfs/phdthesis_compact.pdf). The thesis is the most up-to-date version of my
 research on quotient inductive-inductive types. My older papers in the same topic are mostly
 superseded. There is one paper which is not superseded, because the thesis only summarizes it, but
 does not really improve or revise it:
@@ -19,10 +19,10 @@ does not really improve or revise it:
 - [For Finitary Induction-Induction, Induction is Enough](https://drops.dagstuhl.de/opus/volltexte/2020/13070/), with
   Ambroise Lafont and Ambrus Kaposi
 
-These [slides about my thesis](pdfs/wg6stockholm.pdf) might be also intersting.
+These [slides about my thesis](/pdfs/wg6stockholm.pdf) might be also intersting.
 
 More recently I wrote a paper about [Canonicity for Indexed Inductive-Recursive
-Types](pdfs/ir_canonicity.pdf). This line of research is a bit different, since the specification of
+Types](/pdfs/ir_canonicity.pdf). This line of research is a bit different, since the specification of
 IR types is quite simple compared to QIITs, but we try to develop some more interesting syntactic
 metatheory for it.
 
@@ -39,8 +39,8 @@ I've [contributed to Agda](https://github.com/agda/agda/pulls?page=1&q=is%3Apr+i
 ## Staged compilation & metaprogramming
 
 - Implementation of [dependently typed runtime code generation](https://github.com/AndrasKovacs/dtt-rtcg).
-- ICFP 2024: *Closure-Free Functional Programming in a Two-Level Type Theory*. [Paper](pdfs/2ltt_icfp24.pdf). [Code supplement](https://github.com/AndrasKovacs/staged/tree/main/icfp24paper/supplement).
-- ICFP 2022: *Staged Compilation With Two-Level Type Theory*. [Paper](pdfs/2ltt.pdf). [Appendix](pdfs/2ltt_appendix.pdf). [Implementation](https://github.com/AndrasKovacs/staged).
+- ICFP 2024: *Closure-Free Functional Programming in a Two-Level Type Theory*. [Paper](/pdfs/2ltt_icfp24.pdf). [Code supplement](https://github.com/AndrasKovacs/staged/tree/main/icfp24paper/supplement).
+- ICFP 2022: *Staged Compilation With Two-Level Type Theory*. [Paper](/pdfs/2ltt.pdf). [Appendix](/pdfs/2ltt_appendix.pdf). [Implementation](https://github.com/AndrasKovacs/staged).
 - [Staged push/pull fusion in typed Template Haskell](https://github.com/AndrasKovacs/staged-fusion). It's mostly made obsolete by the ICFP 2024 paper.
 
 ## High-performance elaboration with dependent types
@@ -87,7 +87,7 @@ I have also developed an extension to Miller's pattern unification algorithm. I
 haven't yet made any formal publication about this; see this [Stack Exchange
 answer](https://cstheory.stackexchange.com/questions/50914/swapping-arguments-of-variables-in-higher-order-pattern-unification/50918#50918)
 for some explanation and links to more material. See also these WITS 23
-[slides](pdfs/wits24prez.pdf).
+[slides](/pdfs/wits24prez.pdf).
 
 ## Universe features
 
