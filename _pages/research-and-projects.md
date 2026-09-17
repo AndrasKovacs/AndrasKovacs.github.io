@@ -19,7 +19,7 @@ does not really improve or revise it:
 - [For Finitary Induction-Induction, Induction is Enough](https://drops.dagstuhl.de/opus/volltexte/2020/13070/), with
   Ambroise Lafont and Ambrus Kaposi
 
-These [slides about my thesis](/pdfs/wg6stockholm.pdf) might be also intersting.
+These [slides about my thesis](/pdfs/wg6stockholm.pdf) might be also interesting.
 
 More recently I wrote a paper about [Canonicity for Indexed Inductive-Recursive
 Types](/pdfs/ir_canonicity.pdf). This line of research is a bit different, since the specification of
@@ -29,7 +29,7 @@ metatheory for it.
 ## Efficient evaluation for cubical type theories
 
 Existing cubical type theory implementations all suffer from efficiency problems.
-I have a [WIP repository](https://github.com/AndrasKovacs/cubeval) with a
+I have a [repository](https://github.com/AndrasKovacs/cubeval) with a
 prototype implementation that has major new optimizations.
 
 ## Agda
