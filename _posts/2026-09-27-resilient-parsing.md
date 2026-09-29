@@ -2,7 +2,7 @@
 title: 'Lightweight resilient recursive parsing'
 date: 2026-09-29
 permalink: /posts/2026/09/blog-post-2/
-published: false
+published: true
 tags:
 ---
 

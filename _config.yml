@@ -358,7 +358,9 @@ tag_archive:
 
 # HTML Compression
 # - https://jch.penibelst.de/
+# Disabled everywhere: it assumes <pre> never nests, which breaks Rouge's
+# line-numbered code blocks (a table of <pre>s inside the outer <pre>).
 compress_html:
   clippings: all
   ignore:
-    envs: development
+    envs: [development, production]
