@@ -1,9 +1,9 @@
 ---
 title: 'Lightweight resilient recursive parsing'
 date: 2026-09-29
-permalink: /posts/2026/09/blog-post-2/
+permalink: /posts/2026/09/resilient-parsing/
 published: true
-tags:
+tags: Pterodactyl parsing
 ---
 
 Resilient parsing means that we try to parse as much as possible of the source code, possibly
