@@ -20,6 +20,7 @@ inductive types, universes).
 
 **Updates & new publications**
 
+- 26/10/26: slides about [thinning-stable metaprogramming](/pdfs/ifip26_thinning.pdf) from my talk at the IFIP 2.11 working group meeting.
 - 01/09/26: started as a postdoc at the University of Cambridge in [Jon
   Sterling's](https://www.jonmsterling.com/index/) group.
 - 13/02/26: [slides](/pdfs/tfp26prez.pdf) from my talk at TFP 2026. It's about two-level TT, with a practical focus, also touching on region allocation.
